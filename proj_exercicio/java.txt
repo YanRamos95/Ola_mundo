@@ -1,6 +1,6 @@
 
 
-// Programa de adição que permite a soma de dois números 
+ 
 
 import java.util.Scanner; // Programa utiliza a classe Scanner 
 
